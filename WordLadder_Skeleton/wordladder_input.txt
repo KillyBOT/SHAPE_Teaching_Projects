@@ -1,0 +1,10 @@
+sell,star
+tool,cony
+airy,dyer
+elms,hoof
+abet,nave
+axle,buck
+head,tail
+wheel,straw
+apple,orange
+red,blue

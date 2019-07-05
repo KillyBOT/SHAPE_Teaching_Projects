@@ -1,0 +1,30 @@
+=== A* Search ===
+sell -> seal -> sear -> star
+
+=== A* Search ===
+tool -> cool -> cook -> conk -> cony
+
+=== A* Search ===
+airy -> airs -> aims -> dims -> dies -> dyes -> dyer
+
+=== A* Search ===
+elms -> elm -> helm -> held -> hold -> hood -> hoof
+
+=== A* Search ===
+abet -> bet -> bets -> bats -> bate -> gate -> gave -> nave
+
+=== A* Search ===
+axle -> able -> ably -> ally -> all -> ball -> balk -> back -> buck
+
+=== A* Search ===
+head -> hear -> heir -> hair -> hail -> tail
+
+=== A* Search ===
+wheel -> heel -> heed -> hied -> shied -> shred -> shrew -> strew -> straw
+
+=== A* Search ===
+apple -> ample -> amble -> ramble -> rumble -> bumble -> burble -> burgle -> bungle -> bungee -> bunged -> banged -> ranged -> range -> orange
+
+=== A* Search ===
+red -> bred -> bled -> fled -> flee -> flue -> blue
+
